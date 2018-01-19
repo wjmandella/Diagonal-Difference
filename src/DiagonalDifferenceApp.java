@@ -1,7 +1,7 @@
-import java.util.Scanner;
-
 //My solution to the "Diagonal Difference" problem on HackerRank (with a few enhancements).
 // https://www.hackerrank.com/challenges/diagonal-difference/problem
+
+import java.util.Scanner;
 
 public class DiagonalDifferenceApp {
 	
